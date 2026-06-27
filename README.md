@@ -1,8 +1,7 @@
 # Sauce Demo - Comprehensive Manual Test Case Suite
 
 ## 📄 Project Artifact
-You can view or download the complete, detailed test suite execution sheet here:
-👉 **[Click here to view Feb9_ Test Cases for saucedemo.com.pdf](./Feb9_ Test Cases for saucedemo.com.pdf)** 
+👉 **[Click here to view Feb9_ Test Cases for saucedemo.com.pdf](Feb9_%20Test%20Cases%20for%20saucedemo.com.pdf)**
 
 ---
 
